@@ -1,0 +1,16 @@
+{
+  "name": "caesar-cipher-cli",
+  "version": "1.0.0",
+  "description": "Task 1. For RS School Node.js course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node my_caesar_cli.js"
+  },
+  "author": "Alexey Frolovsky",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "through2": "^4.0.2"
+  }
+}
